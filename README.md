@@ -19,3 +19,7 @@ print 'Temperature in C: ' + str(raspstat.getTemperature())
 print 'IP-address: ' + raspstat.getIpAddress()
 print 'CPU speed: ' + str(raspstat.getCpuSpeed())
 ```
+
+##Note
+I've found this code on the web, and don't remember where.
+So, if you are the owner, tell me, so i can place here a thanks to you.
